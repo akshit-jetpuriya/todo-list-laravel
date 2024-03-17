@@ -14,9 +14,6 @@ A simple todo list web application built with Laravel, featuring basic CRUD oper
 - **Todo Management:** Users can create, read, update, and delete todo items.
 - **User-specific Todo Lists:** Each user has their own set of todo items.
 
-## Demo
-Check out the [live demo](#) here, if available.
-
 ## Installation
 1. **Clone the repository:**
    ```sh
